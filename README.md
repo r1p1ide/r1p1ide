@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey, I'm Alexander! :sweat_smile:
 
-<!--
-**r1p1ide/r1p1ide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alexander Matveev currently live in Moscow. I am also a student of the Moscow Aviation Institute with a degree in Information Security.
 
-Here are some ideas to get you started:
+#### :zap: Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Back-end development using **Java**
+- Making for **Relational Database Management Systems**
+
+#### About me :mag_right:
+
+- :postbox: How to reach me: rebek322@gmail.com *or* [@r1p_tide](https://t.me/r1p_tide)
+
+
